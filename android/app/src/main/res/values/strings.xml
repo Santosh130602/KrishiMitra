@@ -1,3 +1,7 @@
+
 <resources>
     <string name="app_name">KishanMitra</string>
+    <string name="google_maps_key">AIzaSyBKbbhqHDB1SamyQsNImHzTSyGYSiDTIWs</string>
 </resources>
+
+
