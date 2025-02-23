@@ -47,7 +47,7 @@ const TabNavigation = () => {
         <Stack.Screen name='Crop' component={CropCareScreen} />
         <Stack.Screen name='Address' component={AddressScreen} />
         <Stack.Screen name='Fertilizer' component={FertilizerScreen} />
-         <Stack.Screen name="Videos" component={VideosScreen} />
+        <Stack.Screen name="Videos" component={VideosScreen} />
         <Stack.Screen name="VideoPlayer" component={VideoPlayerScreen} />
         <Stack.Screen name='Profile' component={UserProfile} />
         <Stack.Screen name='Support' component={ContactUs}/>
